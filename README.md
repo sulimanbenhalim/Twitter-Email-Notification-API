@@ -4,9 +4,7 @@ This API allows you to track a specific keyword on Twitter and receive email not
 1- Installation:
 
 * This API requires the following libraries to be installed: <code>tweepy</code> and <code>smtplib</code>.
-* You can install them by running the following command in your command prompt:
-
-<code>pip install tweepy smtplib</code>
+* You can install them by running the following command in your command prompt: <code>pip install tweepy smtplib</code>
 
 
 2- Twitter API Credentials:
